@@ -88,7 +88,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔍 **[Delta Flight Prediction]** – ML backend predicting missed flight connections *(repo not public)*  
+- 🔍 **[Delta Flight Prediction]** – ML backend predicting missed flight connections *(can't show that unfortunately)*  
 - 🧬 **[BioImage Pipeline](https://github.com/zyoonkim/qupathAuto)** – Python + QuPath automation for tissue image annotation  
 - 🧭 **[Study Space Occupancy Tracker](https://github.com/zyoonkim/studysp)** – React Native app tracking real-time library activity with YOLOv5  
 
