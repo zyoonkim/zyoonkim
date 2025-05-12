@@ -32,7 +32,6 @@
 
 ---
 
-
 ### 🧰 Languages & Tools
 
 #### 💻 Languages
@@ -44,6 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/>
 </p>
 
 #### ⚙️ Frameworks & Libraries
@@ -54,6 +54,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40" alt="Flask"/>
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="40" height="40" alt="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40" height="40" alt="Supabase"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
@@ -76,7 +77,6 @@
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyoonkim&theme=tokyonight" alt="Zach's GitHub Streak" />
 </p>
@@ -85,7 +85,7 @@
 
 ### 🚀 Featured Projects
 
-- 🔍 **[Delta Flight Prediction]** – ML backend predicting missed flight connections (can't link sorry)
+- 🔍 **[Delta Flight Prediction]** – ML backend predicting missed flight connections *(repo not public)*  
 - 🧬 **[BioImage Pipeline](https://github.com/zyoonkim/qupathAuto)** – Python + QuPath automation for tissue image annotation  
 - 🧭 **[Study Space Occupancy Tracker](https://github.com/zyoonkim/studysp)** – React Native app tracking real-time library activity with YOLOv5  
 
