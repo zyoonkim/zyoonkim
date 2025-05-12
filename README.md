@@ -22,7 +22,7 @@
 <a href="mailto:zyoonkim@umich.edu" target="_blank">
   <img src="https://static.vecteezy.com/system/resources/previews/016/716/465/non_2x/gmail-icon-free-png.png" alt="Gmail" height="30" width="30" />
 </a>
-<a href="https://linkedin.com/in/zyoonkim" target="_blank">
+<a href="https://www.linkedin.com/in/zachary-yoon-kim/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://instagram.com/zachyk51" target="_blank">
