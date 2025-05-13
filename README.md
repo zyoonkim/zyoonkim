@@ -1,5 +1,6 @@
 # Hi 👋, I'm Zach Yoon-Kim
-### Fullstack Developer • ML Enthusiast • Marathon Runner • Musician
+### Fullstack Developer • ML Enthusiast • Marathon Runner • Musician 
+#### Studying Computer Science, Math, and Economics at the University of Michigan
 
 🚀 Building scalable apps with React, Firebase, and Flask  
 🧠 Exploring machine learning with PyTorch & Scikit-Learn  
