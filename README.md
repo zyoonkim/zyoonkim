@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on: automating bioimage analysis & a consulting team portal  
 - 💬 Ask me about: `React`, `Firebase`, `Flask`, `PyTorch`, or distance running  
-- 🧠 Interests: full-stack dev, AI/ML, music
+- 🧠 Interests: full-stack dev, AI/ML, music, computer vision
 - ⚡ Fun fact: I speak 3 languages and play 3 instruments  
 - 📫 Reach me: **zyoonkim@umich.edu**
 
