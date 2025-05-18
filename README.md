@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zach Yoon-Kim
+# Hi 👋, I'm Zach Yoon-Kim 
 ### Fullstack Developer • ML Enthusiast • Marathon Runner • Musician 
 #### Studying Computer Science, Math, and Economics at the University of Michigan
 
