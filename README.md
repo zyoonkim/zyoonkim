@@ -36,7 +36,7 @@
 
 ### ⚙️ Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,next,nodejs,flask,firebase,supabase,tailwind,bootstrap,pytorch" />
+  <img src="https://skillicons.dev/icons?i=react,next,nodejs,flask,firebase,supabase,tailwind,bootstrap,pytorch" />
 </p>
 
 ### 🛠️ Tools  
