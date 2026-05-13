@@ -65,9 +65,4 @@
 <p align="center">
   <em>Do not follow where the path may lead. Go instead where there is no path and leave a trail.</em><br>
   Ralph Waldo Emerson
-</p>
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
-</p>
