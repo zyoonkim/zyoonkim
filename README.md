@@ -56,7 +56,8 @@
 
 ## Selected Projects
 
-- Delta Flight Prediction – Machine learning backend for predicting missed flight connections (private project)  
+- Delta Flight Prediction – Machine learning backend for predicting missed flight connections (private project)
+- C/C++ static code analyzer — Used clang's AST library, context about the cache from OS system calls, to statically analyze potential runtime speed improvements in cache locality, and memory overhead
 - BioImage Pipeline – Automated QuPath annotation system using Python  
 - Study Space Occupancy Tracker – React Native application with YOLOv5 for real-time library occupancy detection  
 
