@@ -13,7 +13,7 @@
 - Currently working on bioimage automation and an internal consulting team portal  
 - Interested in full-stack development, artificial intelligence, machine learning, computer vision, and music technology  
 - Comfortable working with React, Firebase, Flask, and PyTorch  
-- Fluent in three languages and proficient in three musical instruments  
+
 
 ---
 
