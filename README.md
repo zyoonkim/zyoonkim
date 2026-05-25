@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Full-Stack Developer • Machine Learning Enthusiast • Marathon Runner • Musician</h3>
-<h4 align="center">Computer Science, Mathematics, and Economics @ University of Michigan</h4>
+<h4 align="center">Computer Science, Mathematics @ University of Michigan</h4>
 
 ---
 
