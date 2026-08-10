@@ -18,7 +18,7 @@ Currently working on:
 
 ## Skills
 
-Languages: Python, C++, JavaScript, TypeScript, Java, SQL, HTML/CSS
+Languages: Python, C++, Rust JavaScript, TypeScript, SQL, HTML/CSS
 
 Frameworks & Technologies: React, Next.js, Node.js, Flask, Firebase, Supabase, Tailwind CSS, PyTorch
 
