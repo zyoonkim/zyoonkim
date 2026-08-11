@@ -51,4 +51,4 @@ Outside of software, I enjoy marathon running, playing piano, guitar, and bass g
 
 - Email: zyoonkim@umich.edu
 - LinkedIn: linkedin.com/in/zachary-yoon-kim
-- GitHub: github.com/zyoonkim
+- GitHub: github.com/zyoonkim (I mean, obviously)
