@@ -23,9 +23,8 @@ Frameworks & Technologies: React, Next.js, Node.js, Flask, Firebase, Supabase, T
 Tools: Git, GitHub, Linux, Docker, PostgreSQL, MongoDB
 
 ## Experience
-
-- Atlas Digital Consulting Group
-
+- General Dynamics Mission Systems
+  
 - CollegeSensei
 
 - Michigan Medicine (Dr. Morgan Salmon Lab)
