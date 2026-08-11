@@ -4,7 +4,7 @@ Computer Science & Mathematics @ University of Michigan
 
 ## About
 
-I'm a developer interested in machine learning, artificial intelligence, developer tools, and computer vision. I enjoy building products that combine software engineering with practical problem solving.
+I'm a developer interested in machine learning, artificial intelligence, developer tools, and full-stack development. I enjoy building products that combine software engineering with practical problem solving.
 
 Currently working on:
 - Fantasy Football Waiver Wire Reporter (for Mac) with Rust
@@ -18,9 +18,9 @@ Currently working on:
 
 Languages: Python, C++, Rust JavaScript, TypeScript, SQL, HTML/CSS
 
-Frameworks & Technologies: React, Next.js, Node.js, Flask, Firebase, Supabase, Tailwind CSS, PyTorch
+Frameworks & Technologies: React, Axum, Next.js, Node.js, Flask, Firebase, Supabase, Tailwind CSS, PyTorch
 
-Tools: Git, GitHub, Linux, Docker, PostgreSQL, MongoDB
+Tools: Git, GitHub, Linux, Docker, PostgreSQL
 
 ## Experience
 - General Dynamics Mission Systems
