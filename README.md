@@ -32,15 +32,14 @@ Tools: Git, GitHub, Linux, Docker, PostgreSQL, MongoDB
 
 ## Projects
 
+### Rust Fantasy Football Waiver Wire Reporter
+Build an Axum backend server that polls Sleeper's API once an hour to detect if any players on your "wishlist" have been sent to the waiver wire. Meant to run locally on your machine and send you a Mac notification if this event happens
+
+### Rust Waiver Wire TUI
+Built a TUI with Rust's ratatui crate to interface with your wishlist, which lives on the backend. Includes a fuzzy-search algorithm based on name, position, team. Interactively add and remove players from your wishlist, straight from the command line
 
 ### C/C++ Static Code Analyzer
 Built using Clang AST tooling to identify cache locality inefficiencies, memory overhead, and potential runtime optimizations.
-
-### BioImage Pipeline
-Automated QuPath annotation and image-processing workflow for biological imaging datasets.
-
-### Study Space Occupancy Tracker
-React Native and YOLOv5 application for real-time library occupancy detection.
 
 ## Interests
 
