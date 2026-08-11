@@ -7,9 +7,7 @@ Computer Science & Mathematics @ University of Michigan
 I'm a developer interested in machine learning, artificial intelligence, developer tools, and computer vision. I enjoy building products that combine software engineering with practical problem solving.
 
 Currently working on:
-- Bioimage analysis automation tools
-- Internal consulting team infrastructure and portals
-- Machine learning applications
+- Fantasy Football Waiver Wire Reporter (for Mac) with Rust
 
 ## Stats
 <p align="center">
