@@ -9,6 +9,9 @@ I'm a developer interested in machine learning, artificial intelligence, develop
 Currently working on:
 - Fantasy Football Waiver Wire Reporter (for Mac) with Rust
 
+Fun fact:
+I love a good git pre-commit hook
+
 ## Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyoonkim&theme=tokyonight" alt="GitHub Streak" />
