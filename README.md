@@ -1,4 +1,4 @@
-# Zachary Yoon-Kim
+# Zach Yoon-Kim
 
 Computer Science & Mathematics @ University of Michigan
 
