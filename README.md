@@ -4,7 +4,7 @@ Computer Science & Mathematics @ University of Michigan
 
 ## About
 
-I'm a developer interested in machine learning, artificial intelligence, developer tools, and full-stack development. I enjoy building products that combine software engineering with practical problem solving.
+I'm a developer interested in backend, artificial intelligence, developer tools, and full-stack development. I enjoy building products that combine software engineering with practical problem solving.
 
 Currently working on:
 - Fantasy Football Waiver Wire Reporter (for Mac) with Rust
@@ -19,7 +19,7 @@ I love a good git pre-commit hook
 
 ## Skills
 
-Languages: Python, C++, Rust JavaScript, TypeScript, SQL, HTML/CSS
+Languages: Python, C++, Rust, Go, JavaScript, TypeScript, SQL, HTML/CSS
 
 Frameworks & Technologies: React, Axum, Next.js, Node.js, Flask, Firebase, Supabase, Tailwind CSS, PyTorch
 
@@ -45,7 +45,7 @@ Built using Clang AST tooling to identify cache locality inefficiencies, memory 
 
 ## Interests
 
-Outside of software, I enjoy marathon running, playing piano, guitar, and bass guitar, and exploring music technology.
+Outside of software, I enjoy marathon running, playing piano, guitar, and bass guitar, and exploring music technology. I also love Dr. Pepper.
 
 ## Contact
 
